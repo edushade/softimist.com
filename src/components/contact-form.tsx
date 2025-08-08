@@ -7,9 +7,7 @@ import { Textarea } from "@/components/ui/textarea";
 import { Button } from "@/components/ui/button";
 import { Loader2, Send } from "lucide-react";
 
-type Props = {};
-
-export default function ContactForm({}: Props) {
+export default function ContactForm() {
   const [submitting, setSubmitting] = useState(false);
 
   async function handleContactSubmit(e: React.FormEvent<HTMLFormElement>) {

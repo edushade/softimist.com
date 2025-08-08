@@ -102,7 +102,7 @@ export default function LandingPage() {
                     <Star key={i} className="w-5 h-5 text-yellow-400 fill-current" />
                   ))}
                 </div>
-                <p className="text-gray-600 mb-4">"Softimist has transformed how we handle our daily operations. The efficiency gains are remarkable."</p>
+                <p className="text-gray-600 mb-4">&quot;Softimist has transformed how we handle our daily operations. The efficiency gains are remarkable.&quot;</p>
                 <div className="flex items-center">
                   <div className="w-10 h-10 bg-gray-300 rounded-full mr-3"></div>
                   <div>
@@ -119,7 +119,7 @@ export default function LandingPage() {
                     <Star key={i} className="w-5 h-5 text-yellow-400 fill-current" />
                   ))}
                 </div>
-                <p className="text-gray-600 mb-4">"The analytics dashboard gives us insights we never had before. Game-changing for our business."</p>
+                <p className="text-gray-600 mb-4">&quot;The analytics dashboard gives us insights we never had before. Game-changing for our business.&quot;</p>
                 <div className="flex items-center">
                   <div className="w-10 h-10 bg-gray-300 rounded-full mr-3"></div>
                   <div>
@@ -136,7 +136,7 @@ export default function LandingPage() {
                     <Star key={i} className="w-5 h-5 text-yellow-400 fill-current" />
                   ))}
                 </div>
-                <p className="text-gray-600 mb-4">"Implementation was seamless and the support team is incredibly responsive. Highly recommend."</p>
+                <p className="text-gray-600 mb-4">&quot;Implementation was seamless and the support team is incredibly responsive. Highly recommend.&quot;</p>
                 <div className="flex items-center">
                   <div className="w-10 h-10 bg-gray-300 rounded-full mr-3"></div>
                   <div>
