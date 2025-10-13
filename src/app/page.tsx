@@ -100,14 +100,14 @@ export default function LandingPage() {
         <div className="container mx-auto px-4">
           <div className="text-center mb-16">
             <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">About Softimist</h2>
-            <p className="text-xl text-gray-600 max-w-3xl mx-auto">We're passionate about transforming education through innovative AI-powered solutions that make learning more engaging, personalized, and effective.</p>
+            <p className="text-xl text-gray-600 max-w-3xl mx-auto">We&apos;re passionate about transforming education through innovative AI-powered solutions that make learning more engaging, personalized, and effective.</p>
           </div>
 
           <div className="grid lg:grid-cols-2 gap-12 items-center mb-16">
             <div>
               <h3 className="text-2xl font-bold text-gray-900 mb-6">Our Story</h3>
-              <p className="text-gray-600 mb-6 leading-relaxed">Founded with a vision to revolutionize education technology, Softimist emerged from the belief that every learner deserves personalized, intelligent educational experiences. Our team of education experts, AI researchers, and software engineers came together to create Edushade LMS - a next-generation learning management system that adapts to each student's unique learning style and pace.</p>
-              <p className="text-gray-600 leading-relaxed">We understand the challenges educators face in today's digital world, from managing diverse learning needs to tracking student progress effectively. That's why we've built an AI-powered platform that not only simplifies administrative tasks but also enhances the learning experience for students and teachers alike.</p>
+              <p className="text-gray-600 mb-6 leading-relaxed">Founded with a vision to revolutionize education technology, Softimist emerged from the belief that every learner deserves personalized, intelligent educational experiences. Our team of education experts, AI researchers, and software engineers came together to create Edushade LMS - a next-generation learning management system that adapts to each student&apos;s unique learning style and pace.</p>
+              <p className="text-gray-600 leading-relaxed">We understand the challenges educators face in today&apos;s digital world, from managing diverse learning needs to tracking student progress effectively. That&apos;s why we&apos;ve built an AI-powered platform that not only simplifies administrative tasks but also enhances the learning experience for students and teachers alike.</p>
             </div>
             <div className="relative">
               <div className="bg-gradient-to-br from-orange-100 to-orange-200 rounded-2xl p-8 h-80 flex items-center justify-center">
@@ -131,7 +131,7 @@ export default function LandingPage() {
                 <CardTitle className="text-xl">Our Mission</CardTitle>
               </CardHeader>
               <CardContent>
-                <p className="text-gray-600">To democratize access to quality education by providing intelligent, scalable learning solutions that adapt to every student's needs and empower educators to deliver exceptional learning experiences.</p>
+                <p className="text-gray-600">To democratize access to quality education by providing intelligent, scalable learning solutions that adapt to every student&apos;s needs and empower educators to deliver exceptional learning experiences.</p>
               </CardContent>
             </Card>
 
@@ -255,7 +255,7 @@ export default function LandingPage() {
           <div className="mx-auto max-w-4xl grid lg:grid-cols-2 gap-10">
             <div>
               <h2 className="text-3xl lg:text-4xl font-bold text-gray-900 mb-4">Contact us</h2>
-              <p className="text-lg text-gray-600 mb-6">Interested in Edushade? Tell us a bit about your needs and we'll reach out with a tailored demo.</p>
+              <p className="text-lg text-gray-600 mb-6">Interested in Edushade? Tell us a bit about your needs and we&apos;ll reach out with a tailored demo.</p>
 
               {/* Contact Information */}
               <div className="mb-8 p-6 bg-white rounded-lg border border-gray-200 shadow-sm">
